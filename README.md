@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jammes
+- 👋 Hi, I’m James
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C language
 - 💞️ I want to learn with you through the community
